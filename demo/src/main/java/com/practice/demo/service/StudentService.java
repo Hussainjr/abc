@@ -18,4 +18,9 @@ public class StudentService {
 
         studentRepository.save(s);
     }
+
+    public void update()
+    {
+
+    }
 }
