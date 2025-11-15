@@ -16,4 +16,10 @@ public class StudentController {
     {
         studentService.save();
     }
+
+    @GetMapping("/update")
+    public void update()
+    {
+      //your code
+    }
 }
