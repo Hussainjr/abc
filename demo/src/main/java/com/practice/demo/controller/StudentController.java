@@ -21,5 +21,6 @@ public class StudentController {
     public void update()
     {
       //your code
+        System.out.println("Hello from conflict-branch");
     }
 }
