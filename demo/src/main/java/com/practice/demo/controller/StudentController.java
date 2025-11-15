@@ -16,4 +16,11 @@ public class StudentController {
     {
         studentService.save();
     }
+
+    public void update()
+    {
+        //
+        System.out.println("from main");
+    }
+
 }
