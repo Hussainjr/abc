@@ -23,4 +23,9 @@ public class StudentController {
         System.out.println("from conflict-branch");
     }
 
+    public void delete()
+    {
+
+    }
+
 }
