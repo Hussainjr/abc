@@ -20,7 +20,7 @@ public class StudentController {
     public void update()
     {
         //
-        System.out.println("from main");
+        System.out.println("from conflict-branch");
     }
 
 }
